@@ -1,0 +1,14 @@
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    text-align:center;
+}
+
+p{
+    font-style: oblique;
+}
+
+body{
+    font-size: 20px;
+    font-weight: bold;
+}
